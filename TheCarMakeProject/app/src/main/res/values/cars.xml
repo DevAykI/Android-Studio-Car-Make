@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cars">
+        <!--30 cars exactly no need to count i give my word-->
+        <item>audi</item>
+        <item>bmw</item>
+        <item>bristol</item>
+        <item>cadillac</item>
+        <item>chevrolet</item>
+        <item>dodge</item>
+        <item>ferrari</item>
+        <item>fiat</item>
+        <item>ford</item>
+        <item>honda</item>
+        <item>isuzu</item>
+        <item>jaguar</item>
+        <item>jeep</item>
+        <item>kia</item>
+        <item>lamborghini</item>
+        <item>landrover</item>
+        <item>mercedes</item>
+        <item>mini</item>
+        <item>opel</item>
+        <item>peugeot</item>
+        <item>porsche</item>
+        <item>renault</item>
+        <item>seat</item>
+        <item>shelby</item>
+        <item>smart</item>
+        <item>subaru</item>
+        <item>tesla</item>
+        <item>toyota</item>
+        <item>volkswagen</item>
+        <item>volvo</item>
+    </array>
+</resources>
